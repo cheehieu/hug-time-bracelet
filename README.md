@@ -17,4 +17,6 @@
 # Resources
 - https://trolls.fandom.com/wiki/Hug-Time_Friendship_Bracelets
 - https://www.evilgeniuslabs.org/fibonacci32-mini3
+- https://www.tindie.com/products/maehem/equinox-orbit-24mm-dia-led-disc-with-37-leds/
+- https://twitter.com/GeekMomProjects/status/1394844060792221697
 - 
