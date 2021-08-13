@@ -12,7 +12,13 @@
 - Kid-friendly?
 - Incorporate features of "hug watch" and bracelets for other tribes
 - Button for triggering hug-time... anytime
+
+
+# BLE Mesh
+https://www.nordicsemi.com/Products/nRF52820
+- Angle-of-arrival (AoA) and angle-of-departure (AoD) direction finding using Bluetooth
 - 
+
 
 # Resources
 - https://trolls.fandom.com/wiki/Hug-Time_Friendship_Bracelets
